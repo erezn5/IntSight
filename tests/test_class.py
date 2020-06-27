@@ -7,7 +7,7 @@ from utilities.BaseClass import BaseClass
 
 class Test(BaseClass):
 
-    api_token = 'f07dc08cdbd109b2952da638b97e3cbf6f96432f'
+    api_token = '3bce5200d7b3c1582037d37552f25b1464824149'
     gist = Gist(api_token)
 
     # Assumption is that there are already gists in the repo
